@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/2-Autonomous_ROVs_Led-2dd4bf?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/2-Autonomous_ROVs-2dd4bf?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/3-Publications-2dd4bf?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/5-Awards_%26_Recognitions-2dd4bf?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/%2B25%25-Localization_Accuracy_Gain-2dd4bf?style=for-the-badge&labelColor=0d1117)
