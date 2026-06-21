@@ -118,6 +118,7 @@ I'm now doing my M.Sc. in Mobile Robotics at the University of Bonn, going deepe
 
 - 🥇 **Technoxian World Robotics Championship 9.0** (2025) — 1st place, Innovation category, for a semi-autonomous underwater ROV for coral reef monitoring
 - 🏅 **Aegis Graham Bell Award** (2023) — Ministry of Electronics & IT, India, for AI/SLAM-integrated underwater robotics
+- 🏅 **5G Hackathon** (2023) - Recognition for the development of an autonomous ROV with 5G-based real-time control and data transmission
 - 📄 Design patent, autonomous underwater ROV (2024) · paper in *Taylor & Francis* (Sept 2025, DOI: [10.1080/30654327.2025.2549246](https://doi.org/10.1080/30654327.2025.2549246))
 
 → Full list of awards and publications on the [portfolio site](https://ameednaz.base44.app/Achievements).
