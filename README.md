@@ -1,9 +1,8 @@
 <div align="center">
 
-# Ameed Nazhurudeen Sheik Ali
-### Robotics Engineer · M.Sc. Mobile Robotics, University of Bonn
+<img src="assets/banner.svg" alt="Ameed Nazhurudeen Sheik Ali — Robotics Engineer, M.Sc. Mobile Robotics, University of Bonn" width="100%"/>
 
-Autonomous systems · Computer Vision · Sensor Fusion · ROS2
+<br><br>
 
 [Portfolio](https://ameednaz.base44.app) · [LinkedIn](https://www.linkedin.com/in/ameed-nazhurudeen-a6b4611b3) · [Email](mailto:Ameednazhurudeen2002@gmail.com) · Bonn, Germany
 
