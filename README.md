@@ -36,7 +36,7 @@ I'm now doing my M.Sc. in Mobile Robotics at the University of Bonn, going deepe
 ## Core Competencies
 
 <div align="center">
-<img src="assets/skills-chart.svg" alt="Core competencies chart" width="600"/>
+<img src="assets/skills-chart.svg" alt="Core competencies chart" width="720"/>
 </div>
 
 <br>
