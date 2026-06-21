@@ -1,10 +1,26 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ameed Nazhurudeen Sheik Ali — Robotics Engineer, M.Sc. Mobile Robotics, University of Bonn" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Ameed Nazhurudeen Sheik Ali — Robotics Engineer, M.Sc. Mobile Robotics, University of Bonn"/>
 
 <br><br>
 
-[Portfolio](https://ameednaz.base44.app) · [LinkedIn](https://www.linkedin.com/in/ameed-nazhurudeen-a6b4611b3) · [Email](mailto:Ameednazhurudeen2002@gmail.com) · Bonn, Germany
+<img src="https://github.com/AmeedNazhurudeen.png" width="120" height="120" style="border-radius:50%;border:2px solid #2dd4bf;"/>
+
+<br><br>
+
+<a href="https://ameednaz.base44.app">🌐&nbsp;Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ameed-nazhurudeen-a6b4611b3">💼&nbsp;LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:Ameednazhurudeen2002@gmail.com">📧&nbsp;Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;📍&nbsp;Bonn, Germany
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/2-Autonomous_ROVs_Led-2dd4bf?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/3-Publications-2dd4bf?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/5-Awards_%26_Recognitions-2dd4bf?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/%2B25%25-Localization_Accuracy_Gain-2dd4bf?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/2-Design_Patents-2dd4bf?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -20,15 +36,12 @@ I'm now doing my M.Sc. in Mobile Robotics at the University of Bonn, going deepe
 
 <br>
 
-## Impact in Numbers
+## Now
 
-<div align="center">
-
-| 2 | 3 | 5 | +25% | 2 |
-|:---:|:---:|:---:|:---:|:---:|
-| Autonomous ROVs led | Publications | Awards & recognitions | Localization accuracy gain via sensor fusion | Design patents filed |
-
-</div>
+- 🎓 M.Sc. Mobile Robotics @ Rheinische Friedrich-Wilhelms-Universität Bonn
+- 🔭 Exploring sensor fusion and learning-based perception for GPS-denied navigation
+- 🌊 Co-authoring research on lightweight composite structures and stability analysis for underwater ROVs
+- 🟢 Open to Werkstudent / research-assistant roles in robotics, AI, and autonomous systems
 
 <br>
 
@@ -37,15 +50,6 @@ I'm now doing my M.Sc. in Mobile Robotics at the University of Bonn, going deepe
 <div align="center">
 <img src="assets/skills-chart.svg" alt="Core competencies chart" width="720"/>
 </div>
-
-<br>
-
-## Now
-
-- 🎓 M.Sc. Mobile Robotics @ Rheinische Friedrich-Wilhelms-Universität Bonn
-- 🔭 Exploring sensor fusion and learning-based perception for GPS-denied navigation
-- 🌊 Co-authoring research on lightweight composite structures and stability analysis for underwater ROVs
-- 🟢 Open to Werkstudent / research-assistant roles in robotics, AI, and autonomous systems
 
 <br>
 
@@ -70,15 +74,27 @@ I'm now doing my M.Sc. in Mobile Robotics at the University of Bonn, going deepe
 ![Fusion360](https://img.shields.io/badge/-Fusion%20360-FF6600?style=flat-square&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-D31B0F?style=flat-square&logo=autocad&logoColor=white)
 
-*SLAM · Multi-Sensor Fusion (LiDAR / IMU / Depth) · Navigation Stack · Embedded Control · RoboDK*
+<br>
+
+## Live GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmeedNazhurudeen&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeedNazhurudeen&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2dd4bf&text_color=c9d1d9" width="38%"/>
 
 <br>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeedNazhurudeen&layout=compact&hide_border=true&title_color=4FA8E0&text_color=c9d1d9&bg_color=0d1117">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeedNazhurudeen&layout=compact&hide_border=true&title_color=004682&text_color=24292f&bg_color=ffffff" alt="Most used languages" width="380"/>
-</picture>
+<img src="https://streak-stats.demolab.com/?user=AmeedNazhurudeen&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf" width="65%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmeedNazhurudeen&theme=react-dark&hide_border=true&bg_color=0D1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmeedNazhurudeen&theme=darkhub&no-frame=true&margin-w=8&row=2&column=4" width="90%"/>
+
 </div>
 
 <br>
@@ -87,25 +103,14 @@ I'm now doing my M.Sc. in Mobile Robotics at the University of Bonn, going deepe
 
 | Project | Description |
 |---|---|
-| **[ROS2-Projects-](https://github.com/AmeedNazhurudeen/ROS2-Projects-)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/ROS2-Projects-?style=flat-square&color=004682&label=) | A comprehensive ROS2 robotics portfolio — autonomous navigation, SLAM, industrial manipulation, computer vision, underwater ROV systems, and drone control. |
-| **[Mazesolver](https://github.com/AmeedNazhurudeen/Mazesolver)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/Mazesolver?style=flat-square&color=004682&label=) | Autonomous micromouse maze solver combining flood-fill pathfinding, sensor fusion, and PID control. |
-| **[Ameed_plant_phenotyping](https://github.com/AmeedNazhurudeen/Ameed_plant_phenotyping)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/Ameed_plant_phenotyping?style=flat-square&color=004682&label=) | Computer vision pipeline for automated plant phenotyping. *(add a one-line description in the repo for extra context)* |
-| **[ResumeOS](https://github.com/AmeedNazhurudeen/ResumeOS)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/ResumeOS?style=flat-square&color=004682&label=) | *(add a one-line description — what does this project do?)* |
-| **[Samad-RSP-Assignment](https://github.com/AmeedNazhurudeen/Samad-RSP-Assignment)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/Samad-RSP-Assignment?style=flat-square&color=004682&label=) | *(add a one-line description)* |
-| **[habit-rpg-tracker](https://github.com/AmeedNazhurudeen/habit-rpg-tracker)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/habit-rpg-tracker?style=flat-square&color=004682&label=) | *(add a one-line description)* |
+| **[ROS2-Projects-](https://github.com/AmeedNazhurudeen/ROS2-Projects-)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/ROS2-Projects-?style=flat-square&color=2dd4bf&label=) | A comprehensive ROS2 robotics portfolio — autonomous navigation, SLAM, industrial manipulation, computer vision, underwater ROV systems, and drone control. |
+| **[Mazesolver](https://github.com/AmeedNazhurudeen/Mazesolver)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/Mazesolver?style=flat-square&color=2dd4bf&label=) | Autonomous micromouse maze solver combining flood-fill pathfinding, sensor fusion, and PID control. |
+| **[Ameed_plant_phenotyping](https://github.com/AmeedNazhurudeen/Ameed_plant_phenotyping)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/Ameed_plant_phenotyping?style=flat-square&color=2dd4bf&label=) | Computer vision pipeline for automated plant phenotyping. *(add a one-line description in the repo)* |
+| **[ResumeOS](https://github.com/AmeedNazhurudeen/ResumeOS)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/ResumeOS?style=flat-square&color=2dd4bf&label=) | *(add a one-line description)* |
+| **[Samad-RSP-Assignment](https://github.com/AmeedNazhurudeen/Samad-RSP-Assignment)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/Samad-RSP-Assignment?style=flat-square&color=2dd4bf&label=) | *(add a one-line description)* |
+| **[habit-rpg-tracker](https://github.com/AmeedNazhurudeen/habit-rpg-tracker)** ![stars](https://img.shields.io/github/stars/AmeedNazhurudeen/habit-rpg-tracker?style=flat-square&color=2dd4bf&label=) | *(add a one-line description)* |
 
 → More detail, photos, and write-ups for SEER and MARVIS on the [portfolio site](https://ameednaz.base44.app/Projects).
-
-<br>
-
-## GitHub Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmeedNazhurudeen&show_icons=true&hide_border=true&title_color=4FA8E0&icon_color=4FA8E0&text_color=c9d1d9&bg_color=0d1117&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmeedNazhurudeen&show_icons=true&hide_border=true&title_color=004682&icon_color=004682&text_color=24292f&bg_color=ffffff&count_private=true" alt="Ameed's GitHub stats" width="420"/>
-</picture>
-</div>
 
 <br>
 
